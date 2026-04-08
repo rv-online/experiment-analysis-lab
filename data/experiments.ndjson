@@ -1,0 +1,4 @@
+{"experiment_id": "exp_home", "variant": "control", "users": 1200, "conversion_rate": 0.084}
+{"experiment_id": "exp_home", "variant": "new-copy", "users": 1180, "conversion_rate": 0.101}
+{"experiment_id": "exp_paywall", "variant": "control", "users": 940, "conversion_rate": 0.054}
+{"experiment_id": "exp_paywall", "variant": "soft-offer", "users": 960, "conversion_rate": 0.049}
